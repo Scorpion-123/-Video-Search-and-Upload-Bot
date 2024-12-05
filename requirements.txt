@@ -1,1 +1,7 @@
-
+os
+hashlib
+asyncio
+aiohttp
+aiofiles
+tqdm
+watchdog
